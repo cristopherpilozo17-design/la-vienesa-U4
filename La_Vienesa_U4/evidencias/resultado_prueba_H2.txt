@@ -1,0 +1,24 @@
+VALIDACION AUTOMATICA EN H2 (MODO POSTGRESQL). NO ES EVIDENCIA DE POSTGRESQL.
+1 SELECT:
+  Chorizo ahumado
+  Jamon
+  Salchicha Vienesa
+2 WHERE parametrizado:
+  Jamon
+  Salchicha Vienesa
+3 JOIN:
+  [1, Ana Demo]
+4 GROUP BY y COUNT:
+  [Ahumados, 1]
+  [Embutidos, 2]
+5 Subconsulta:
+  Chorizo ahumado
+  Jamon
+6 SUM: 12.20
+7 UPDATE: filas=1; stock temporal=16
+8 DELETE: filas=1; restantes temporales=0
+Ciclo nueva: contains=false
+Ciclo gestionada: contains=true
+Ciclo separada: contains=false
+merge: original=false, copia=true
+Ciclo eliminada: find=null

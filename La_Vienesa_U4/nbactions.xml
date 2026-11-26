@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><actions><action><actionName>run</actionName><goals><goal>process-classes</goal><goal>org.codehaus.mojo:exec-maven-plugin:3.5.0:java</goal></goals><properties><exec.mainClass>ec.edu.vienesa.DemoUnidad4</exec.mainClass></properties></action></actions>
+
